@@ -36,7 +36,7 @@ def help_menu():
   print(f"3. multar ({fg}ONLINE{fres})")
   print(f"4. auto inject ({fr}OFFLINE{fres})")
   print(f"5. waf list ({fr}OFFLINE{fres})")
-  print(f"6. dork fresh ({fg}ONLINE{fres})")
+  print(f"6. dork fresh ({fg}OFFLINE{fres})")
   print(f"7. website information ({fg}ONLINE{fres})")
   print (f"\n=============[ {fg}Program Pack{fres} ]=================")
   print(f"8. Install Sqlmap ({fr}KALI LINUX{fres})")
